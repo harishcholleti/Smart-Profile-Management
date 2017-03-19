@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart profile management</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--<string name="google_map_api">AIzaSyC0rrvSXkf3cCBacoNOhEcNL7qf0xxaOps</string>-->
+    <string name="google_map_api">AIzaSyBJYKXov4YObl3cGdezd136IVAVpcloCe0</string>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <string name="gps_title">GPS</string>
+    <string name="gps_mes">GPS seems to be disabled, do you want to enable it?</string>
+    <string name="network_title">Network</string>
+    <string name="network_mes">Network seems to be disabled, do you want to enable it?</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Profile</item>
+        <item>Home</item>
+        <item>Office</item>
+        <item>Reminder</item>
+        <item>Settings</item>
+        <item>Travel Time</item>
+        <item>Logout</item>
+    </string-array>
+</resources>
